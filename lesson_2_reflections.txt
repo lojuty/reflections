@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+   * An initial directory .git is created
+   * to indicate that I will  keep track of changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+   * Group logical work unit
+
