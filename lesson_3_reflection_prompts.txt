@@ -12,3 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
 * clone is a copy between servers/locations
 * fork is a clone, that leaves a trace of the origin and destination, in GitHub
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+* I can do merges and so smooth the transition from local to remote for multiple developers
